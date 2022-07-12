@@ -5,13 +5,18 @@
    
   h1 {
     color: AntiqueWhite;
+    text-align: center;
   }
    
    
-  p, 
-  li {
+  p {
     font-size: 18px;
+    text-align: center;
   }
+
+img {
+    text-align: center;   
+}
    
    
   a {
