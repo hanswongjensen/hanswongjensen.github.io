@@ -18,7 +18,7 @@
     text-decoration: none;
   }
 
-ol.lyrics {
+#lyrics {
     font-weight: bold;
     font-size: 7px;
     text-align: center;
